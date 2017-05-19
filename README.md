@@ -1,0 +1,2 @@
+# ProyectoEquipoA
+Proyecto para simular
